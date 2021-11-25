@@ -1,1 +1,1 @@
-# VAR-model_Covid19
+# VAR-modell_Covid19
